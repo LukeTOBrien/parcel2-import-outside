@@ -1,0 +1,1 @@
+# parcel2-import-outside
