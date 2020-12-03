@@ -1,0 +1,10 @@
+{
+  "name": "project",
+  "scripts": {
+    "build": "parcel build index.js"
+  },
+  "dependencies": {
+    "@babel/core": "^7.12.9",
+    "parcel": "^2.0.0-nightly.465"
+  }
+}
